@@ -34,7 +34,7 @@ namespace GDApplication
                     if (baglan.baglan().State == ConnectionState.Closed)
                     {
                         baglan.baglan().Open();
-                        //elif
+                        //elifoksuz
                     }
                     SmtpClient smtpserver = new SmtpClient();
                     MailMessage mail = new MailMessage();
