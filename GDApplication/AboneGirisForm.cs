@@ -100,5 +100,12 @@ namespace GDApplication
             kayıtOlForm.Show();
 
         }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            SifremiUnuttum sifremiUnuttum = new SifremiUnuttum();
+            sifremiUnuttum.ShowDialog();
+
+        }
     }
 }

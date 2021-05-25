@@ -51,11 +51,11 @@ namespace GDApplication
             this.label1.BackColor = System.Drawing.Color.OrangeRed;
             this.label1.Font = new System.Drawing.Font("MV Boli", 19.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(159, 9);
+            this.label1.Location = new System.Drawing.Point(143, 21);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(187, 44);
+            this.label1.Size = new System.Drawing.Size(220, 44);
             this.label1.TabIndex = 0;
-            this.label1.Text = "KAYIT OL";
+            this.label1.Text = "Abone Kayıt";
             // 
             // textBox1
             // 

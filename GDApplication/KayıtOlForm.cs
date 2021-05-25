@@ -246,8 +246,9 @@ namespace GDApplication
                 "'" + txtIlce.Text + "','" + txtAdres.Text + "','" + txtTelNo.Text + "','" + comboBoxCinsiyet.Text + "')",baglanti);
             komut.ExecuteNonQuery();
             baglanti.Close();
-            MessageBox.Show("Kayıt Gerçekleşti...","Program:");
+            MessageBox.Show("Kayıt Gerçekleşti...","Program::");
         }
     }
     }
+
 

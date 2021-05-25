@@ -117,47 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="loginn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\loginn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LOGİN PAGE" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LOGİN PAGE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="login page" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\login page.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Gazeteler" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Gazeteler.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ayarlar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ayarlar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="loginn1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\loginn1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Admin Panel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Admin Panel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="çarpı" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\çarpı.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AnaSayfa" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\AnaSayfa.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="abone" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\abone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ma" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ma.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ayarlarr" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ayarlarr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="newspaper" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\newspaper.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sifrearka" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sifrearka.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
